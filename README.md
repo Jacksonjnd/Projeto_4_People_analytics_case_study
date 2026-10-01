@@ -1,6 +1,6 @@
 # 📘 Ebook | Case de People Analytics
 
-Este projeto apresenta um **ebook desenvolvido a partir de um case real de People Analytics**, com foco em transformar dados de pessoas em uma narrativa clara, visual e estratégica.
+Este projeto apresenta um **ebook desenvolvido a partir de um case real de People Analytics (Programa de desenvolvimento)**, com foco em transformar dados de pessoas em uma narrativa clara, visual e estratégica.
 
 Por questões de confidencialidade, **o nome da empresa, do programa e qualquer informação que pudesse identificar a organização foram anonimizados**.
 
@@ -172,7 +172,7 @@ Este projeto envolveu:
 
 ## 📖 Acesse o ebook
 
-[📘 Visualizar o ebook completo em PDF](./people_analytics_case_study.pdf)
+[📘 Visualizar o ebook completo em PDF](./people-analytics-case-study.pdf)
 
 ---
 
